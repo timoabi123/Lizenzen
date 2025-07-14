@@ -4,5 +4,11 @@
     "hwid": "",
     "valid": true,
     "expires": "lifetime"
+  },
+  "027C5743": {
+    "user": "Toxoudzn",
+    "hwid": "",
+    "valid": true,
+    "expires": "2025-08-14T00:54:48.667687"
   }
 }
